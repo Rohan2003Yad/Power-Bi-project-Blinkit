@@ -32,12 +32,15 @@ Item Visibility Impact: Analysis of how item visibility correlates with sales.
 Outlet Performance: Performance metrics for each outlet, including total sales and average item rating.
 
 **Dashboard Features**
+
 Interactive Visualizations: Includes bar charts, pie charts, and line graphs to represent sales trends, item performance, and outlet characteristics.
 Filters and Slicers: Allows users to filter data by item type, outlet location, outlet size, and more, enabling detailed analysis.
 Sales Trends: Visualize sales trends over time and identify peak sales periods.
 Item Analysis: Examine item-specific metrics such as sales performance and customer ratings.
 Outlet Comparison: Compare performance metrics across different outlets.
+
 **Workflow**
+
 Data Collection: Gather the dataset from BlinkIt, ensuring it includes all necessary columns for analysis.
 Data Preparation: Clean and preprocess the data, handling missing values and inconsistencies.
 Data Import: Import the cleaned data into Power BI Desktop.
