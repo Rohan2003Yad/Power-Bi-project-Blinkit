@@ -1,3 +1,5 @@
+**Dashboard Screenshots:**  
+![PowerBi Dashboard](PowerBI dashboard.png) 
 # Grocery Sales Analysis Dashboard
 **Description:**
 
